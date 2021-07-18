@@ -1,4 +1,4 @@
-# Image_Processing_And_Face_Mask_Detection
+# Image_Processing_And_Face_Mask_Detection_Using_Convolution_Neural_Network
 
 1. Through Convolution Neural Network, a molde is trained to identify if a person is wearing face mask or not. 
 2. The data set we have used here , is preapred by Prajna Bhandary . It consists of 1376 images which belong to two classes - with mask and without mask. 
